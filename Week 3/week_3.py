@@ -183,4 +183,20 @@ HANDLING BIGGER INCIDENTS
     Remember, the key focus of postmortems is continuous improvement, not blame. By applying these practices, teams can become more resilient, proactive, and efficient in 
     handling incidents. The next topic will be a quiz to reinforce your understanding of the concepts covered.
 
+    
+FINAL LAB
+cd /
+python3 /usr/bin/infrastructure
+sudo apt install python3-pip -y
+pip3 install matplotlib
+python3 /usr/bin/infrastructure
+cd ~
+ls
+mv data.bak data.csv
+cd /
+python3 /usr/bin/infrastructure
+cat ~/data.csv
+sudo chmod 777 ~/data.csv
+nano ~/data.csv
+
 """
