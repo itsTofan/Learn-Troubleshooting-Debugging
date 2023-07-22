@@ -221,3 +221,15 @@ print(best_search([1, 3, 5, 7, 9, 10, 2, 4, 6, 8], 10))
 
 print(best_search([5, 1, 8, 2, 4, 10, 7, 6, 3, 9], 11))
 #Should be: Linear: 10 steps, Binary: 5 steps. Best Search is Binary.
+
+"""
+Final Lab
+cd ~/scripts
+ls
+cat greetings.py
+sudo chmod 777 greetings.py
+./greetings.py
+nano greetings.py
+print("hello " + name + ", your random number is " + str(number))
+
+"""
